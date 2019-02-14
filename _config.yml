@@ -3,11 +3,11 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
+title: Zhihang Dong
+email: zdong@uw.edu
+description: Ph.D. Student at the University of Washington
 url: https://zdong1.github.io# the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+keywords: ["data science", "natural language processing"]
 
 #
 ###################################
@@ -33,13 +33,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Zhihang Dong
   avatar: leonids-logo.png
   job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  bio: "Ph.D. Student specialized in Data Science"
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: zdong6#username
   facebook: #username
   google:
     plus: #username
@@ -48,10 +48,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: zdong1#username
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: zhihangdong #username
   skype: #username
   xing: #username
   instagram: #username
