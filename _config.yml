@@ -14,7 +14,7 @@ keywords: ["data science", "natural language processing"]
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          U.S./Pacific
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -34,10 +34,10 @@ kramdown:
 #
 owner:
   name: Zhihang Dong
-  avatar: leonids-logo.png
+  avatar: husky.png
   job: "Ph.D. Student specialized in Data Science"
-  bio: "Ph.D. Student specialized in Data Science"
-  email:
+  bio: "pronounced (in IPA) ʈʂʐ̩ː4xaŋ2"
+  email: zdong@uw.edu
   disqus-shortname:
   twitter: zdong6#username
   facebook: #username
@@ -59,7 +59,7 @@ owner:
   tumblr: #username
   pinterest: #username
   foursquare: #username
-  steam: #username
+  steam: pikachu1026#username
   dribbble: #username
   youtube: #username
   soundcloud: #username
