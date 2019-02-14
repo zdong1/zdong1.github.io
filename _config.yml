@@ -6,7 +6,7 @@
 title: Zhihang Dong
 email: zdong@uw.edu
 description: Ph.D. Student at the University of Washington
-url: https://zdong1.github.io# the base hostname & protocol for your site
+url: "https://zdong1.github.io"# the base hostname & protocol for your site
 keywords: ["data science", "natural language processing"]
 
 #
@@ -35,7 +35,7 @@ kramdown:
 owner:
   name: Zhihang Dong
   avatar: leonids-logo.png
-  job: "A jekyll theme"
+  job: "Ph.D. Student specialized in Data Science"
   bio: "Ph.D. Student specialized in Data Science"
   email:
   disqus-shortname:
